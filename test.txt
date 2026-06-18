@@ -1,0 +1,8 @@
+Certainly:
+During my work with AI development and migration projects, I encountered several challenges that provided valuable learning experiences.
+One of the main issues was data quality and availability. In many cases, data was incomplete, inconsistent, or not properly labeled, which directly affected model performance. Significant effort was required to clean, preprocess, and standardize datasets before they could be used effectively.
+Another challenge involved integration with existing systems. Migrating AI solutions into legacy environments often required careful planning to ensure compatibility, minimize downtime, and preserve existing business processes. Differences in infrastructure, APIs, and data formats occasionally created bottlenecks that had to be resolved through custom solutions.
+I also faced model performance and scalability concerns. Models that performed well in a development environment did not always scale efficiently in production. This required optimization, monitoring, and sometimes redesigning parts of the architecture to handle real-world workloads.
+Additionally, governance and security considerations were critical. Ensuring compliance with data privacy regulations and implementing secure data handling practices was an ongoing concern, especially when dealing with sensitive information.
+Finally, change management and user adoption posed challenges. Introducing AI-driven workflows often required stakeholder alignment, training, and clear communication to ensure successful adoption across teams.
+Overall, these issues strengthened my ability to approach AI development holistically—combining technical expertise with practical problem-solving and collaboration across different business functions.
